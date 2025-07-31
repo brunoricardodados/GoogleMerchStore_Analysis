@@ -1,0 +1,11 @@
+country,unique_visitors,total_visits,source,medium,unique_visitors,total_visits,total_pageviews,total_bounces,avg_time_on_site,ano
+United States,1103,1287,(direct),(none),1943,2166,10069,985,338.5872340425533,2017
+India,144,155,youtube.com,referral,178,180,299,139,190.9512195121951,2017
+United Kingdom,132,142,analytics.google.com,referral,53,57,113,34,172.60869565217394,2017
+Germany,86,91,Partners,affiliate,49,52,136,30,197.31818181818187,2017
+Canada,80,85,dfa,cpm,8,15,61,6,262.0,2017
+Australia,42,44,google.com,referral,11,12,34,9,306.0,2017
+Japan,38,41,sites.google.com,referral,8,8,33,1,79.16666666666666,2017
+Russia,40,41,facebook.com,referral,7,7,26,4,701.0,2017
+France,36,40,quora.com,referral,5,6,12,4,46.0,2017
+Italy,26,31,baidu,organic,5,5,9,4,97.0,2017
